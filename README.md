@@ -37,6 +37,7 @@ Atualmente estou aprimorando meus conhecimentos em **Python** e buscando uma opo
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />
