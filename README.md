@@ -4,8 +4,6 @@
 
 Sou desenvolvedor de software e estudante de Engenharia de Software. Meu foco profissional é o desenvolvimento backend com Python, integrações entre sistemas e automação de processos.
 
-Busco oportunidades em desenvolvimento backend e engenharia de software.
-
 ## Experiência prática
 
 Na Alternativa Flexo, trabalho com sistemas internos e soluções para processos corporativos, incluindo:
