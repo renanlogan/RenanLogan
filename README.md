@@ -1,39 +1,34 @@
 # Renan Logan
 
-**Desenvolvedor de Software | Full Stack | Python | Next.js | Automação**
+**Desenvolvedor de Software | Backend com Python | APIs e Automação**
 
-Sou desenvolvedor de software e estudante de Engenharia de Software, com experiência em desenvolvimento de sistemas corporativos, automação de processos e infraestrutura de TI.
+Sou desenvolvedor de software e estudante de Engenharia de Software. Meu foco profissional é o desenvolvimento backend com Python, integrações entre sistemas e automação de processos.
 
-Atualmente trabalho na Alternativa Flexo, desenvolvendo sistemas internos, automações em Python, integrações com APIs e soluções utilizando Microsoft 365.
+Busco oportunidades em desenvolvimento backend e engenharia de software.
 
-Também desenvolvo projetos como freelancer, incluindo sistemas, sites corporativos e aplicações web.
+## Experiência prática
+
+Na Alternativa Flexo, trabalho com sistemas internos e soluções para processos corporativos, incluindo:
+
+- Automações em Python e integrações com Omie e Microsoft Graph.
+- Desenvolvimento e manutenção de sistemas em Python e PHP.
+- Desenvolvimento de um Service Desk com Next.js e PostgreSQL.
+- Administração e integração de serviços do Microsoft 365.
+
+Também desenvolvo sistemas, sites e aplicações web como freelancer.
 
 ## Tecnologias
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nextjs,react,php,postgres,supabase,tailwind,html,css,git,github,vscode" />
-</div>
+- **Backend e integrações:** Python, PHP e APIs REST.
+- **Banco de dados:** PostgreSQL, Supabase e Neon.
+- **Automação e ambiente corporativo:** Microsoft Graph e Microsoft 365.
+- **Desenvolvimento web:** JavaScript, TypeScript, Next.js e React.
+- **Ferramentas:** Git e GitHub.
 
-<br>
+## Portfólio
 
-- Python, JavaScript e TypeScript
-- Next.js, React e Tailwind CSS
-- PostgreSQL, Supabase e Neon
-- PHP, HTML e CSS
-- Microsoft Graph, Microsoft 365 e Power BI
-- Git, GitHub, Vercel e APIs REST
-
-## Experiência atual
-
-Na Alternativa Flexo, atuo no desenvolvimento e evolução de soluções internas, incluindo:
-
-- Service Desk corporativo desenvolvido com Next.js e PostgreSQL
-- Automações em Python integradas ao Omie e Microsoft Graph
-- Desenvolvimento e manutenção de sistemas em Python e PHP
-- Administração do ambiente Microsoft 365
+Estou organizando projetos públicos em Python com foco em APIs, regras de negócio, bancos relacionais, testes automatizados e execução reproduzível. Os projetos serão adicionados aqui conforme forem implementados e validados.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/renanlogan) ·
-[Email](mailto:rehlogan100@gmail.com) ·
-[GitHub](https://github.com/renanlogan)
+[LinkedIn](https://www.linkedin.com/in/renanlogan) · [Email](mailto:rehlogan100@gmail.com) · [GitHub](https://github.com/renanlogan)
